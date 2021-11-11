@@ -3,7 +3,7 @@
 
 ## 🟢 Projeto em tempo real
 
-- [Demo](https://dt-money-six.vercel.app/)
+- [Demo](https://dt-money-merigwin.vercel.app/)
 
 
 ## ✨ Tecnologias
