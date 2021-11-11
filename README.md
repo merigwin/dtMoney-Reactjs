@@ -1,7 +1,7 @@
 <h1 align="center">dtMoney</h1>
 
 
-## 🟢 Veja em tempo real
+## 🟢 Projeto em tempo real
 
 - [Demo](https://dt-money-six.vercel.app/)
 
